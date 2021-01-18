@@ -1,12 +1,25 @@
-### Hi there :exclamation:
+### Hi there :wave:
 
-<!--
-**mylern/mylern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Irish [Trinity College Dublin](https://en.wikipedia.org/wiki/Trinity_College_Dublin "Trinity Wiki") Software Engineering graduate. 
 
-Here are some ideas to get you started:
+- :airplane: Moving to London once I secure a job! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Quick example of my work [here](https://github.com/mylern/Marking_unmarked_roads).
+
+Experience in:
+- Python            
+- C++
+- Javascript
+- HTML/CSS
+- C
+
+:wrench: Currently Working on : - Uploading my previous work to Github.
+
+:seedling: Currently Learning : - (Revising) Data Structures & Algorithms.
 
 
-- 📫 How to reach me: ...
+Please feel free to contact me for any questions regarding experience or perhaps to arrange a call! :blush:
+
+- :e-mail: mylern@tcd.ie
+
+Or you can reach out to me on my [LinkedIn profile](https://en.wikipedia.org/wiki/Trinity_College_Dublin "").
