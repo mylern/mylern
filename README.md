@@ -22,4 +22,4 @@ Please feel free to contact me for any questions regarding experience or perhaps
 
 - :e-mail: mylern@tcd.ie
 
-Or you can reach out to me on my [LinkedIn profile](https://en.wikipedia.org/wiki/Trinity_College_Dublin "").
+Or you can reach out to me on my [LinkedIn profile](https://www.linkedin.com/in/Naoise-Myler) 
