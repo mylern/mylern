@@ -4,7 +4,7 @@ Irish [Trinity College Dublin](https://en.wikipedia.org/wiki/Trinity_College_Dub
 
 - :airplane: Moving to London once I secure a job! 
 
-Quick example of my work [here](https://github.com/mylern/Marking_unmarked_roads).
+Quick example of my work [here](https://github.com/mylern/Blog_from_scratch).
 
 Experience in:
 - Python            
